@@ -1,3 +1,4 @@
+# Imports all of the required packages for the backend to run
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
